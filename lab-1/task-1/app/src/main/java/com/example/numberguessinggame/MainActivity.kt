@@ -15,7 +15,6 @@ class MainActivity : AppCompatActivity() {
 
         val myButton: Button = findViewById(R.id.button)
 
-
         myButton.setOnClickListener {
             // Code to be executed when the button is clicked
 
